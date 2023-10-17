@@ -1,0 +1,20 @@
+.title {
+    font-weight: 700;
+}
+
+.imageContainer {
+    display: inline;
+    padding-right: 20px
+}
+
+.chatWindowMainContainer {
+    padding: 15px;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1
+}
+
+.title {
+    display: inline;
+}
